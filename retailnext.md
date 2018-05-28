@@ -10,7 +10,7 @@
 
 **Социальный пакет:** ДМС, страхование жизни, компенсация спорта и курсы английского языка, Командировки в США
 
-**Компания:** Wheely (сайт: [https://wheely.com/](https://wheely.com/))
+**Компания:** RetailNext (сайт: [https://retailnext.net](https://retailnext.net/))
 
 
 ## Senior Frontend Developer
